@@ -1,0 +1,23 @@
+{
+  "name": "correccion_parcial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agudelotomas02/CORRECCION_PARCIAL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agudelotomas02/CORRECCION_PARCIAL/issues"
+  },
+  "homepage": "https://github.com/agudelotomas02/CORRECCION_PARCIAL#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
